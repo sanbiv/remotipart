@@ -1,6 +1,6 @@
 module Remotipart
   module Rails
-    VERSION = "1.2.1"
-    IFRAMETRANSPORT_VERSION = "02.06.2013"
+    VERSION = "1.2.2"
+    IFRAMETRANSPORT_VERSION = "24.03.2016"
   end
 end
